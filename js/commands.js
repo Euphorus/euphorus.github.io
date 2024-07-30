@@ -15,7 +15,7 @@ aboutme = [
         - Mathematics, Physics
         - Programming, Level Designing
         - Skateboarding, Racing</pre>`,
-  `<li> I love...
+  `<li> I am passionate about game development, mathematics and quantum physics. I also enjoy running in a marathon, shredding in a skate park or climbing on the rocks.
    *Try using a social command.`,
   `<li> 👨‍💻 Check out my github profile to view my projects
    *Use the github command to take a look at my GitHub profile.`,
@@ -91,7 +91,7 @@ Built With
     *Unity
     *C#
     *Constant support my lecturers
-    *2 hours of staring constantly at the code on why the flip-gravity mechanic wasn't working!
+    *2 hours of staring at the code on why the flip-gravity mechanic wasn't working!
 `,
 
   "<br>",
