@@ -18,7 +18,7 @@ aboutme = [
   `<li> I am passionate about game development, mathematics and quantum physics. I also enjoy running in a marathon, shredding in a skate park or climbing on the rocks.
    *Try using a social command.`,
   `<li> 👨‍💻 Check out my github profile to view my projects
-   *Use the github command to take a look at my GitHub profile.`,
+   *Use the social command to take a look at my projects.`,
   `<li>📫 Contact me at <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=syuvraj.2021@gmail.com">syuvraj.2021@gmail.com</a>`,
   "<br>",
 ];
