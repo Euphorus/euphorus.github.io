@@ -64,20 +64,18 @@ Built With
 
   "<br>",
 
-  `<a href="https://euphorus.itch.io/climate-crusaders" target="blank"><span class='underline'>Climate Crusaders</span>`,
+  `<a href="https://silverdarlin.itch.io/the-expedition" target="blank"><span class='underline'>The Expedition</span>`,
   "<br>",
-  `<pre class="indent-8 whitespace-pre-wrap">This game is about energy conservation set in the 80s. This project was a part of Staffs Summer Research which went fron July 2023 to August 2023.
-This game is playable in the browser, do give it a go!
+  `<pre class="indent-8 whitespace-pre-wrap">The Expedition is a top-down roguelike made by team D.A.L.E. as part of the 2024 Staffordshire University Collab project. Explore an Ancient 
+  Egyptian tomb, fight monsters, and discover ancient mysteries.
 
 Built With
 
-    *Bitsy.com
-    *3 hours of sleep
+    *Unreal Engine 5
+    *C++
     *with no sow to reap
-    *trying not to be a deadbeat
-    *by making my drink neat
-    *How am I going to make a name
-    *when I got no game!
+    *I worked on the shop system which presents three cards to choose from while exploring and fighting.
+    *Here's the breakdown of the shop system: <a href="https://youtu.be/Ckckvm_vUVI" target="blank"><span class='underline'>Shop System Breakdown</span>
 `,
 
   "<br>",
